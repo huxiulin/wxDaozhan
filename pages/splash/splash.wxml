@@ -1,0 +1,4 @@
+<view class="imageSize">  
+  <image style="width: {{imagewidth}}px; height: {{imageheight}}px;" src="{{imagethirdsrc}}" bindload="imageLoad"></image>
+  <!-- <image src = "../../images/splash.png" mode="widthFix"></image> -->
+</view>

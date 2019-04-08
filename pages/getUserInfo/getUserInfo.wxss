@@ -1,0 +1,54 @@
+.pageBody{
+  width: 100%;
+  padding: 0rpx 60rpx;
+  box-sizing: border-box;
+  
+}
+.getInfoTop{
+  text-align: center;
+  box-sizing: border-box;
+  padding: 80rpx 0 60rpx;
+  border-bottom: 1px solid #ddd; 
+}
+.getInfoImg{
+  width: 80px;
+  height: 80px;
+  margin-bottom: 30rpx;
+}
+.ydText{
+  font-weight: 600;
+  font-size: 40rpx;
+}
+.getInfoBottom{
+  box-sizing: border-box;
+  padding: 20rpx 0;
+}
+.promptTitle{
+  font-size: 30rpx;
+  font-weight: 500;
+}
+.promptLi{
+  margin: 20rpx 0;
+  position: relative;
+  height: 60rpx;
+}
+.prompttext{
+  font-size: 30rpx;
+  color: #9B9B9B;
+  text-indent: 20rpx;
+}
+.point{
+  width: 6rpx;
+  height: 6rpx;
+  background-color: #9B9B9B;
+  border: 1px solid #9B9B9B;
+  border-radius: 50%;
+  margin-top: 16rpx;
+  float: left;
+}
+.getInfoBtn{
+  margin-top: 50rpx;
+  background-color: #46C01B;
+  color: #fff;
+  font-size: 36rpx;
+}
