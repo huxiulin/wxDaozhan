@@ -13,6 +13,7 @@ App({
 
 
         console.log('11111111')
+        console.log('3333')
         // 发送 res.code 到后台换取 openId, sessionKey, unionId
       }
     })
